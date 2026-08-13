@@ -6,27 +6,27 @@ import kids from "../assets/images/kids.png";
 
 const shades = [
   {
-    title: "Men's Fashion",
+    title: "Sarees",
     image: men,
     bg: "bg-pink-200",
   },
   {
-    title: "Women's Fashion",
+    title: "Kurtis",
     image: women,
     bg: "bg-yellow-200",
   },
   {
-    title: "Boys Fashion",
+    title: "Western Wear",
     image: boys,
     bg: "bg-gray-200",
   },
   {
-    title: "Girls Fashion",
+    title: "Dresses",
     image: girls,
     bg: "bg-stone-300",
   },
   {
-    title: "Kids Fashion",
+    title: "Ethnic Wear",
     image: kids,
     bg: "bg-blue-300",
   },
